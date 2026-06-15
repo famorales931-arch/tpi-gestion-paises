@@ -13,10 +13,10 @@ Aplicación de consola en Python que permite gestionar información sobre paíse
 
 ## Integrantes
 
-| Nombre | Legajo |
+| Nombre |
 |--------|--------|
-| [Nombre Estudiante 1] | [Legajo] |
-| [Nombre Estudiante 2] | [Legajo] |
+| Morales Aliaga Fabian] |
+| [Nombre Estudiante 2] |
 
 ---
 
