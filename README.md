@@ -11,11 +11,9 @@ Aplicación de consola en Python que permite gestionar información sobre paíse
 
 ---
 
-## Integrantes
+Integrante
 
-| Nombre |
-|--------|--------|
-| Morales Aliaga Fabian] |
+| Nombre: Morales Aliaga Fabian] |
 | [Nombre Estudiante 2] |
 
 ---
