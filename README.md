@@ -121,7 +121,7 @@ https://www.youtube.com/watch?v=mleTb5Wtcqg
 
 ## 📄 Documentación PDF
 
-> [Insertar enlace al PDF aquí]
+https://github.com/famorales931-arch/tpi-gestion-paises/blob/main/Informe_TPI_Morales_Aliaga_Fabian.pdf
 
 ---
 
