@@ -13,8 +13,8 @@ Aplicación de consola en Python que permite gestionar información sobre paíse
 
 Integrante
 
-| Nombre: Morales Aliaga Fabian] |
-| [Nombre Estudiante 2] |
+Nombre: Morales Aliaga Fabian
+
 
 ---
 
@@ -117,7 +117,7 @@ Argentina,45376763,2780400,América
 
 ## 🎥 Video demostrativo
 
-> [Insertar enlace al video aquí]
+https://www.youtube.com/watch?v=mleTb5Wtcqg
 
 ## 📄 Documentación PDF
 
